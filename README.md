@@ -5,7 +5,6 @@ O VINKO é um aplicativo de chat aleatório em tempo real desenvolvido para Andr
 ## 🚀 Tecnologias Utilizadas
 * **Linguagens**: Kotlin.
 * **Backend BaaS**: Firebase (Auth, Realtime Database, Cloud Messaging, Functions, Firestore, Storage).
-* **Arquitetura**: MVVM (Model-View-ViewModel).
 * **UI**: Material Design components.
 
 ## ✨ Funcionalidades Principais
